@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaitongZheng&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I’m currently working in Suzhou, China.
+### 🌱 I’m currently working as an audio signal processing engineer in Suzhou, China.
 
 ### My Papers
 Zheng K, Zheng C, Sang J, et al. Noise-robust blind reverberation time estimation using noise-aware time–frequency masking[J]. Measurement, 2022, 192: 110901.  
